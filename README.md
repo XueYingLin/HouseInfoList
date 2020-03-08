@@ -1,2 +1,0 @@
-# HouseInfoList
-Created with CodeSandbox
