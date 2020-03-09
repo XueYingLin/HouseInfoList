@@ -1,5 +1,5 @@
 {
-  "name": "houseinfolist",
+  "name": "houselist",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -9,6 +9,7 @@
     "react-dom": "16.12.0",
     "react-router-dom": "5.1.2",
     "react-scripts": "3.0.1",
+    "reat": "0.0.1-security",
     "styled-components": "5.0.1"
   },
   "devDependencies": {

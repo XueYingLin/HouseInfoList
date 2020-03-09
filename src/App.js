@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles.css";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import HouseInforList from "./components/HouseInfoList";
+import HouseInfoList from "./components/HouseInfoList";
 import Home from "./components/Home";
 import LogIn from "./components/LogIn";
 
@@ -17,7 +17,7 @@ export default function App() {
         <Route exact path="/" component={Home} />
         <Route path="/logIn" component={LogIn} />
       </Router>
-      <HouseInforList />
+      <HouseInfoList />
     </div>
   );
 }

@@ -10,16 +10,16 @@ const HouseInfo = props => {
   return (
     <HouseInfoStyle>
       <div className="house_info">
-        <p>{props.address}</p>
-        <p>{props.favorite}</p>
-        <p>{props.status}</p>
-        <p>{props.price}</p>
-        <p>{props.size}</p>
-        <p>{props.lotSize}</p>
-        <p>{props.buildYear}</p>
-        <p>{props.beds}</p>
-        <p>{props.baths}</p>
-        <p>{props.link}</p>
+        <p>Address: {props.address}</p>
+        <p>Favorite: {props.favorite}</p>
+        <p>Status: {props.status}</p>
+        <p>Price: {props.price}</p>
+        <p>Size: {props.size}</p>
+        <p>Lot Size: {props.lotSize}</p>
+        <p>Builr Year: {props.buildYear}</p>
+        <p>Beds: {props.beds}</p>
+        <p>Baths: {props.baths}</p>
+        <p>Link: {props.link}</p>
       </div>
     </HouseInfoStyle>
   );

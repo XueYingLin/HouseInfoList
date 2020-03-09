@@ -27,7 +27,7 @@ const dummyData = [
   },
   {
     favorite: "yes, great lotSize",
-    address: "20125 Orchard Meadow DrSARATOGA, CA 95070",
+    address: "20125 Orchard Meadow Dr SARATOGA, CA 95070",
     status: "Active",
     price: "$4,999,000",
     size: "5,684 Sq. Ft",
